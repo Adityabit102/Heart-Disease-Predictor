@@ -95,5 +95,5 @@ This project demonstrates that machine learning techniques can provide significa
 
 ## 📬 Contact
 
-Created by **Tanisha Bhargava**  
-[GitHub Profile](https://github.com/Tanisha240405)
+Created by **Aditya Raj Singh**  
+[GitHub Profile](https://github.com/Adityabit102)
